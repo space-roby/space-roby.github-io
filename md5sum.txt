@@ -1,0 +1,3 @@
+5f6989b689adc7e407f9eb652349b5fd  How_to_launch_Remix_OS_for_PC.txt
+88d917bade985a316efcc41b14024d98  Remix_OS_for_PC_Android_M_32bit_B2016112201.iso
+2ec67008882921c270f2ed870d15eed3  Remix_OS_for_PC_Installation_Tool-B2016080802.exe
